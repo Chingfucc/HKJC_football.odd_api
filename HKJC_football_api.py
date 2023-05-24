@@ -4,6 +4,8 @@
 # 1. visualize unstructured data
 # https://bet.hkjc.com/football/getJSON.aspx?jsontype=search_result.aspx&startdate=20191013&enddate=20191014&teamid=default
 # 2. source code: https://github.com/tanjt107/hkjc-football-api/blob/main/example.py
+# data cleaning: https://github.com/cyruscsc/hkjc-football-data/blob/main/main.py
+# Useful site: http://www.aupong.hk/hkjc_db/forum/5
 
 import json
 import math
